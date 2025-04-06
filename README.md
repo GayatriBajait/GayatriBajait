@@ -1,28 +1,33 @@
-<h1 align="center">Hi 👋, I'm Gayatri Santosh Bajait</h1>
-<h3 align="center">A passionate ux/ui designer from India</h3>
+### 👋 Hi there! I'm Gayatri Santosh Bajait  
+💻 Web Developer | Full Stack developer | 🎨 UX/UI Designer | 🌱 Lifelong Learner  
+Passionate about designing beautiful interfaces and building responsive web applications.
+### 🔥 Featured Projects
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatribajait&label=Profile%20views&color=0e75b6&style=flat" alt="gayatribajait" /> </p>
+- 🚀 [Cafe Management System](https://github.com/...)  
+  A full-stack system with dashboards for customers, kitchen, waiters & reception.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatribajait" alt="gayatribajait" /></a> </p>
+- 📚 [College Portal](https://github.com/...)  
+  Role-based web portal for students, teachers, principals, and admin with login, assignments, and reports.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  ### 🏪 Reliance Web Clone
+A modern, responsive Reliance-style e-commerce website with product listings, image optimization (via Cloudinary), and dynamic UI.
 
-- 🌱 I’m currently learning **python**
+🚀 Tech Stack: HTML, CSS, JS, Cloudinary, Firebase  
+🔗 [Live Demo](#) | [GitHub Repo](#)
 
-- 📫 How to reach me **gayatribajait@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gayatri bajait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayatri bajait" height="30" width="40" /></a>
-<a href="https://instagram.com/_its_candy_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_its_candy_05" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gayu_art_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gayu_art_" height="30" width="40" /></a>
-</p>
+### 💻 Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GayatriBajait&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=GayatriBajait&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatribajait&show_icons=true&locale=en&layout=compact" alt="gayatribajait" /></p>
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/...)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:gayatribajait@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayatribajait&show_icons=true&locale=en" alt="gayatribajait" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayatribajait&" alt="gayatribajait" /></p>
