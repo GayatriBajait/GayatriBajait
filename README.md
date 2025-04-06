@@ -27,7 +27,7 @@ A modern, responsive Reliance-style e-commerce website with product listings, im
 ![Streak](https://streak-stats.demolab.com?user=GayatriBajait&theme=tokyonight)
 
 ### 📫 Connect with me
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/gayatri-bajait-67750928a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/...)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:gayatribajait@gmail.com)
+[![LinkedIn]
+[![YouTube]
+[![Gmail]
 
